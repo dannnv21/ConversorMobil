@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="gris_carbon">#2B2D31</color>
+    <color name="gris_claro">#3C3F45</color>
+    <color name="azul_electrico">#0096FF</color>
+    <color name="blanco">#FFFFFF</color>
 </resources>
